@@ -27,6 +27,8 @@ editor: visual
 ::: notes
 **Speaker Notes:**
 
+Notes to use when giving a presentation.
+
 **Slide Overview:** This slide illustrates the data-intensive research workflow, which is a cyclical process and which we use to frame all of the case studies for each module. Each stage is interconnected, emphasizing the iterative nature of the research process. Let’s briefly walk through each stage.
 
 **Prepare:** The preparation phase involves defining and refining the research questions, ensuring they are clear and relevant to the data at hand. This stage sets the foundation for the entire research process, establishing the goals and objectives that guide the subsequent stages.
